@@ -31,7 +31,7 @@ export const pureAddUser = (
 
 export const pureOnBlur = (name: string, setError: React.Dispatch<string>) => {
   // если имя пустое - показать ошибку
-  if (name === "") {
+  if (name.trim() === "") {
     setError("Ошибка! Введите имя!");
   }
 };

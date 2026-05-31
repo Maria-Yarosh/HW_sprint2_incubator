@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HW_sprint2_incubator/static/css/main.8f89ced5.css",
-    "main.js": "/HW_sprint2_incubator/static/js/main.c6214957.js",
+    "main.css": "/HW_sprint2_incubator/static/css/main.e733a825.css",
+    "main.js": "/HW_sprint2_incubator/static/js/main.f26547ea.js",
     "static/js/767.a91cc8c1.chunk.js": "/HW_sprint2_incubator/static/js/767.a91cc8c1.chunk.js",
     "static/media/avatar.png": "/HW_sprint2_incubator/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/HW_sprint2_incubator/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -10,12 +10,12 @@
     "index.html": "/HW_sprint2_incubator/index.html",
     "static/media/checked.svg": "/HW_sprint2_incubator/static/media/checked.b75ca55e8759862b4083.svg",
     "static/media/burger.svg": "/HW_sprint2_incubator/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.8f89ced5.css.map": "/HW_sprint2_incubator/static/css/main.8f89ced5.css.map",
-    "main.c6214957.js.map": "/HW_sprint2_incubator/static/js/main.c6214957.js.map",
+    "main.e733a825.css.map": "/HW_sprint2_incubator/static/css/main.e733a825.css.map",
+    "main.f26547ea.js.map": "/HW_sprint2_incubator/static/js/main.f26547ea.js.map",
     "767.a91cc8c1.chunk.js.map": "/HW_sprint2_incubator/static/js/767.a91cc8c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f89ced5.css",
-    "static/js/main.c6214957.js"
+    "static/css/main.e733a825.css",
+    "static/js/main.f26547ea.js"
   ]
 }

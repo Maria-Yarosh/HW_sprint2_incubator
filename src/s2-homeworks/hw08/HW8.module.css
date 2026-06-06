@@ -1,23 +1,53 @@
 .item {
+    height: 47px;
+    border-bottom: 1px solid #E5E5E5;
 }
 
-.item:last-of-type {
+.item td {
+    padding: 0 16px;
+    vertical-align: middle;
 }
+
+.item:last-of-type {}
 
 .users {
+    width: 100%;
+    border-collapse: collapse;
 }
 
 .buttonsContainer {
+    margin-left: auto;
+    display: flex;
+    gap: 12px;
 }
 
 .container {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    padding-top: 69px;
 }
 
 .thead {
+    background: #E5E5E5;
+}
+
+.thead tr {
+    height: 36px;
+}
+
+.thead th,
+.thead td {
+    font-weight: 700;
+    text-align: left;
+    padding: 0 16px;
+    vertical-align: middle;
 }
 
 .nameCol {
+    width: 80%;
 }
 
 .ageCol {
+    width: 20%;
 }
